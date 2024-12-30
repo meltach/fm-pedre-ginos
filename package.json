@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@tanstack/react-query-devtools": "^5.62.10",
+    "@tanstack/router-devtools": "^1.92.3",
+    "@tanstack/router-plugin": "^1.91.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.62.10",
+    "@tanstack/react-router": "^1.92.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "padre-ginos",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melaku Tachbele",
+  "license": "ISC",
+  "description": ""
+}
